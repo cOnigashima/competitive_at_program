@@ -1,16 +1,17 @@
 
 
 ## What is this
-private use but public repository for competitive programing of cOnigashima.
-effective and comfortable programing is objective.
-Develop environment.
+private use but public repository for competitive programing of cOnigashima.effective and comfortable programing is objective.Develop environment.
+
+This repository project includes settings for IntelliJ IDEA.
 
 ## todo
--[x] break is double enter
--[ ] Rust environment(Is another repo better?)
--[ ] for more variable standard input like using json 
--[ ] improve scan methods
--[ ] search giants shoulder repository
+
+- [x] break is double enter
+- [ ] Rust environment(Is another repo better?)
+- [ ] for more variable standard input like using json 
+- [ ] improve scan methods
+- [ ] search giants shoulder repository
 
 メモ
 packageごとに命名とMain関数もここで逐次できる。
