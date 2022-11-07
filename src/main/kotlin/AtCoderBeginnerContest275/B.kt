@@ -16,10 +16,10 @@ fun main(args: Array<String>) {
     val abc = multiple(ab,c)
 
     val de = multiple(d,e)
-    val def = multiple(de,f)
+    val def = multiple(de, f)
 
-    val abcMinusDef = abc - def
-    val rest = abcMinusDef % divide
+    val abcMinusDef = abc // -def
+    val rest = abcMinusDef // % divide
 
     println("$rest")
 }
